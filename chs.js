@@ -58,7 +58,7 @@ var cnItems = {
     "OK": "好的",
     "Oops, everyone died.": "糟糕，所有人都死了。",
     "OPEN": "开放中",
-    "POINTS": "分数",
+    "POINTS": "点数",
     "QUARANTINE": "隔离",
     "QUARANTINE HOUSEHOLD": "隔离家庭",
     "SCHOOL": "学校",
